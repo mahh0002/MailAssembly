@@ -11,3 +11,4 @@ To come soon:
 - Basic PHP error handling
 - Cross-broswer functionality
 - Optimizing design on form submission
+- Code clean-up
