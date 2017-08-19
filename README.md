@@ -1,6 +1,6 @@
 # mailassembly
 
-Simple responsive web concept for contact/sign-up forms.
+Simple responsive web concept for contact/sign-up forms. Works across all devices.
 
 <hr>
 
