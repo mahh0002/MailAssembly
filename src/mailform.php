@@ -10,5 +10,7 @@ $headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
 
 //Mailing desired variables
 mail($from,$subject,$to,$headers);
+
+//Action on form submission
 echo "Mail Sent.";
 ?>
