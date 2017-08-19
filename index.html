@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Mail Assembly</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<!-- Header -->
+<div class="container-fluid" id="headerdiv">
+  <h2 align="center">Mail Assembly</h2>
+  <hr>
+</div>
+
+<!-- Content Area -->
+<div class="container" id="content">
+  <div class="col-md-6 img-responsive">
+    <img src="logo3.png"><br><br>
+  </div>
+      
+  <div class="col-md-6">
+    <form action="mailform.php" method="post" id="theform">
+        
+      <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" class="form-control" name="name" id="name" placeholder="Enter name"/>
+      </div>
+
+      <div class="form-group">
+        <label for="email">E-mail:</label>
+        <input type="text" class="form-control" name="email" id="email" placeholder="Enter e-mail"/>
+      </div>
+      
+      <button class="btn btn-default" type="submit" form="theform" value="submit">Submit</button>
+
+    </form>
+  </div>
+</div>
+
+<!-- Footer --><!-- Will be updated -->
+<div class="container-fluid" id="footer">
+  <p align="center"></p>
+</div>
+
+</body>
+<html>
