@@ -1,3 +1,3 @@
 # mailassembly
 
-Simple concept for a website contact/sign-up form
+Simple responsive concept for a website contact/sign-up form
