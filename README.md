@@ -1,6 +1,6 @@
 # mailassembly
 
-Simple responsive web concept for contact/sign-up forms that functions across all devices.
+Simple responsive web concept for contact/sign-up forms.
 
 http://mailassembly.cc/
 
