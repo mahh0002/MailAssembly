@@ -9,6 +9,10 @@ html, body {
   height: 10%;
 }
 
+#whitespacetop {
+  height: 15%;
+}
+
 hr { 
   border: 0; 
   height: 1px; 
@@ -34,6 +38,10 @@ hr {
 
 input {
   text-align: center;
+}
+
+#whitespacebot {
+  height: 15%;
 }
 
 #footer {
