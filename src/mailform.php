@@ -1,4 +1,4 @@
-<?
+<?php
 //Recipient settings
 $from = $_POST['email'];
 $subject = $_POST['name'] . "\r\n" . $_POST['email'];
