@@ -1,5 +1,5 @@
 <?php
-//Recipient settings - Note that these might need adjustment depending on the webmail provider/service you are using
+//Recipient settings (Note: these settings might need adjustment depending on the webmail provider/service you are using)
 $from = $_POST['email'];
 $subject = $_POST['name'] . "\r\n" . $_POST['email'];
 $to = "your-email@example.com"; //Set to your e-mail
