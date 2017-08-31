@@ -2,6 +2,8 @@
 
 Simple responsive web concept for contact/sign-up forms.
 
+Notice that the site is currently under development and you might experience downtime.
+
 http://mailassembly.cc/
 
 <hr>
