@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="script.js"></script>
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   </div>
       
   <div class="col-md-6">
-    <form action="mailform.php" method="post" id="theform">
+    <form onsubmit="show();" action="mailform.php" method="post" id="theform">
         
       <div class="form-group">
         <label for="name">Name:</label>
@@ -39,7 +40,11 @@
       </div>
       
       <button name="btn" id="btn" class="btn btn-default" type="submit" form="theform" value="submit">Submit</button>
-
+      
+      <div id="msg" class="hidden alert alert-success">
+      Your e-mail was sent.
+      </div>
+      
     </form>
   </div>
 </div>
