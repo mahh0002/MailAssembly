@@ -1,6 +1,8 @@
 <?php
+sleep(30); //delay execution 30 seconds in order to display status message on form submission
+
 //Recipient settings (Note: these settings might need adjustment depending on the webmail provider/service you are using)
-$from = $_POST['email'];
+$from = "New sign-up by " . $_POST['name'];
 $subject = $_POST['name'] . "\r\n" . $_POST['email'];
 $to = "your-email@example.com"; //Set to your e-mail
 
