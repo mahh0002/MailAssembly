@@ -4,14 +4,17 @@ Simple responsive web concept for contact/sign-up forms.
 
 http://mailassembly.cc/
 
+Current features:
+- Receive the user's data at your e-mail once the user submits the form
+- Log IP of users
+
 <hr>
 
-To come soon:
-- Proper responsive design for mobile devices and small screens
+Upcoming features:
 - Basic PHP error handling
-- Cross-broswer functionality
-- Optimizing design on form submission
-- Code clean-up
+- Optimize responsive design for mobile devices and small screens
+- Optimize cross-broswer functionality
+- Optimize design on form submission
 
 <hr>
 
