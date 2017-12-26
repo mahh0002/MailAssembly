@@ -14,6 +14,6 @@ $headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
 mail($from,$subject,$to,$headers);
 
 //Action on form submission
-header("Location: http://mailassembly.cc"); //Set to your URL
-die();
+//header("Location: http://mailassembly.cc"); //Set to your URL
+//die();
 ?>
