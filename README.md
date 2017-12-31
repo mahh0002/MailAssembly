@@ -10,7 +10,7 @@ Current features:
 - Receive the user's data at your e-mail once the user submits the form
 - Log IP of users
 
-Upcoming features:
+Upcoming features and future development:
 - Basic PHP error handling
 - Optimize responsive design for mobile devices and small screens
 - Optimize cross-broswer functionality
