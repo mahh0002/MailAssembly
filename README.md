@@ -18,4 +18,4 @@ Upcoming features and future development:
 
 <hr>
 
-(Notice that the site is currently under development and you might experience downtime.)
+(Notice that the site is continuously under development and, on rare occasions, you might experience downtime.)
